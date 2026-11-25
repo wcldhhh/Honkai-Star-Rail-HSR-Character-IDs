@@ -94,10 +94,12 @@
 | 1507 | Mortenax Blade |
 | 1508 | Rin Tohsaka |
 | 1509 | Gilgamesh |
-| 1510 | Himeko • Nova
+| 1510 | Himeko • Nova |
+| 1511 | Aeon ★ Aha |
 | 1512 | Robin • Summeretto |
 | 1513 | Aventurine • Waveflair |
-| 1514 | Nihilux |
+| 1514 | Ellen |
+| 1515 | Astra Yao |
 | 8001 | Destruction Male MC |
 | 8002 | Destruction Female MC |
 | 8003 | Preservation Male MC |
